@@ -1,0 +1,4 @@
+---------Lista de Produto---------
+ - |CODIGO| 1 |NOME| achocolatado |PREÇO| 15,000000
+ - |CODIGO| 2 |NOME| banana |PREÇO| 10,000000
+ - |CODIGO| 3 |NOME| cafe |PREÇO| 5,000000
